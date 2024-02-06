@@ -1,0 +1,40 @@
+.role-header{
+    height: 90vh;
+    width: 100%;
+}
+  .role-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    height: 200px;  
+}
+.navbar{
+    display: flex;
+}
+.role-header{
+    /* position: absolute; */
+    border: plum;
+    background-image: url(../Images/p8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.signup-header{
+    display: block;
+    text-align: center;
+    margin-top: 200px;
+    font-size: 30px;
+  
+    /* width: 200px; */
+}
+header,button {
+    display: block;
+   
+}
+
+.signup-button{
+    width: 100%;
+    padding: 10px 20px;
+    margin: 8px ;
+}

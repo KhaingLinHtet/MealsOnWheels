@@ -1,0 +1,25 @@
+.Order-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 200px; */
+    /* height: 100vh; */
+}
+.order-first-role{
+    background-color: cadetblue;
+    font-size: 1.2rem;
+}
+.order-second-role{
+    background-color: rgb(193, 203, 176);
+  }
+.order-table {
+    width: 60%;
+    border-collapse: collapse;
+    margin: 20px;
+  }
+  .order-table th,
+  .order-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
